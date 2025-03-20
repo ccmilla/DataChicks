@@ -1,0 +1,13 @@
+<script>start("/Users/ceciliamilla/Desktop/ECU/BigData/project/GlobalWarmingAndC02Emissions/dataset/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1742423957,"3/19/25, 6:39:17 PM");</script>
+<script>addRow("continents2.csv","continents2.csv",0,19700,"19.2 kB",1741284995,"3/6/25, 1:16:35 PM");</script>
+<script>addRow("GlobalLandTemperaturesByCity.csv","GlobalLandTemperaturesByCity.csv",0,532830464,"508 MB",1568882824,"9/19/19, 4:47:04 AM");</script>
+<script>addRow("GlobalLandTemperaturesByCity.csv.zip","GlobalLandTemperaturesByCity.csv.zip",0,76353618,"72.8 MB",1742316978,"3/18/25, 12:56:18 PM");</script>
+<script>addRow("GlobalLandTemperaturesByCountry.csv","GlobalLandTemperaturesByCountry.csv",0,22680393,"21.6 MB",1568882824,"9/19/19, 4:47:04 AM");</script>
+<script>addRow("GlobalLandTemperaturesByCountry.csv.zip","GlobalLandTemperaturesByCountry.csv.zip",0,4726482,"4.5 MB",1741381140,"3/7/25, 3:59:00 PM");</script>
+<script>addRow("GlobalLandTemperaturesByMajorCity.csv","GlobalLandTemperaturesByMajorCity.csv",0,14138385,"13.5 MB",1568882824,"9/19/19, 4:47:04 AM");</script>
+<script>addRow("GlobalLandTemperaturesByMajorCity.csv.zip","GlobalLandTemperaturesByMajorCity.csv.zip",0,2067267,"2.0 MB",1741381200,"3/7/25, 4:00:00 PM");</script>
+<script>addRow("GlobalLandTemperaturesByState.csv","GlobalLandTemperaturesByState.csv",0,30770160,"29.3 MB",1568882824,"9/19/19, 4:47:04 AM");</script>
+<script>addRow("GlobalLandTemperaturesByState.csv.zip","GlobalLandTemperaturesByState.csv.zip",0,5637544,"5.4 MB",1741381200,"3/7/25, 4:00:00 PM");</script>
+<script>addRow("GlobalTemperatures.csv","GlobalTemperatures.csv",0,205875,"201 kB",1741381200,"3/7/25, 4:00:00 PM");</script>
