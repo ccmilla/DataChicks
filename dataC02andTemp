@@ -1,0 +1,7 @@
+<script>start("/Users/ceciliamilla/Desktop/ECU/BigData/project/GlobalWarmingAndC02Emissions/dataC02andTemp/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1743292887,"3/29/25, 8:01:27 PM");</script>
+<script>addRow("CO2_emission.csv","CO2_emission.csv",0,87531,"85.5 kB",1743003501,"3/26/25, 11:38:21 AM");</script>
+<script>addRow("GlobalCO2Emissions.csv","GlobalCO2Emissions.csv",0,336,"336 B",1743003620,"3/26/25, 11:40:20 AM");</script>
+<script>addRow("GlobalLandTemperatures_GlobalLandTemperaturesByCountry.csv","GlobalLandTemperatures_GlobalLandTemperaturesByCountry.csv",0,22680393,"21.6 MB",1599955202,"9/12/20, 8:00:02 PM");</script>
+<script>addRow("GlobalLandTemperatures_GlobalLandTemperaturesByCountry.csv.zip","GlobalLandTemperatures_GlobalLandTemperaturesByCountry.csv.zip",0,4726528,"4.5 MB",1743003498,"3/26/25, 11:38:18 AM");</script>
